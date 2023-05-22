@@ -1,0 +1,4 @@
+hey this is just a tutorial file for git
+I want to go into commit 2
+change by om for codewith harry tutorial 
+day 8 of tutorial with harry bhai
